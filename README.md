@@ -14,13 +14,13 @@ Model Selection:
 Experiment with different machine learning models suitable for text classification. Common models include:
 Naive Bayes
 Support Vector Machines (SVM)
-Decision Trees
-Random Forest
-Gradient Boosting
-Ada Boost
-KNN
-MultinomialNB
-XGBClassifier
+Decision Trees,
+Random Forest,
+Gradient Boosting,
+Ada Boost,
+KNN,
+MultinomialNB,
+XGBClassifier etc
 
 Training and Evaluation:
 
