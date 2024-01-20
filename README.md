@@ -1,4 +1,4 @@
-Here's a general outline of the steps you might want to consider for your project:
+Here's a general outline of the steps  consider for our project:
 
 Data Collection:
 
